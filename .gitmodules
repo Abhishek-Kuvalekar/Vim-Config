@@ -1,0 +1,6 @@
+[submodule "bundle/vim-lightline"]
+	path = bundle/vim-lightline
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "bundle/Vundle.vim"]
+	path = bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
